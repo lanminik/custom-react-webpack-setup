@@ -18,4 +18,8 @@ My custom react project setup with Webpack
 
 <strong>ToDo:</strong><br/>
   Image loaders<br/>
-  Explore more about performance<br/>
+  Image Minifiers<br/>
+  Url loaders (transforms img url to base64 - https://webpack.js.org/loaders/url-loader/)<br/>
+  Font Loaders<br/>
+  Loading data (.json, .csv...)<br/>
+  Explore more about performance, caching, tree shaking...<br/>
